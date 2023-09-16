@@ -2,6 +2,8 @@
 ## Blockchain
 - [massalabs](https://github.com/massalabs)
 - [Truffle](https://trufflesuite.com/)
+## BaaS
+- [Supabase[(https://github.com/supabase/supabase) is an open-source Firebase alternative
 
 ## ETL 
 - [temporal](https://docs.temporal.io/kb/all-the-ways-to-run-a-cluster#docker--docker-compose)
