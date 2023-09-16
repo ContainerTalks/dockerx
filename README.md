@@ -1,6 +1,7 @@
 # DockerX Tools
 
 ## Observability
+- [awesome-prometheus-alerts](https://samber.github.io/awesome-prometheus-alerts/)
 
 ## Uptime 
 
