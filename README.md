@@ -4,7 +4,8 @@
 - [Truffle](https://trufflesuite.com/)
 ## BaaS
 - [Supabase[(https://github.com/supabase/supabase) is an open-source Firebase alternative
-
+## Browser Automation
+- [selenium](https://github.com/SeleniumHQ/docker-selenium)
 ## ETL 
 - [temporal](https://docs.temporal.io/kb/all-the-ways-to-run-a-cluster#docker--docker-compose)
 ## Javascript 
