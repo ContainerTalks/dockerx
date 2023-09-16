@@ -11,7 +11,10 @@
 - [gradio](https://www.gradio.app/)
 
 ## Blockchain
-- [massalabs])https://github.com/massalabs)
+- [massalabs](https://github.com/massalabs)
+
+## Orchestrator
+- [Rig](https://docs.rig.dev/getting-started/server-installation)
 
 ### DockerX Helps Docker issues
 
