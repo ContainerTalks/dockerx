@@ -14,7 +14,7 @@
 - [massalabs](https://github.com/massalabs)
 
 ## Orchestrator
-- [Rig](https://docs.rig.dev/getting-started/server-installation)
+- [Rig](https://docs.rig.dev/getting-started/server-installation) - manage K8s Cluster
 
 ### DockerX Helps Docker issues
 
