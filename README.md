@@ -7,6 +7,9 @@
 ## ETL 
 - [temporal](https://docs.temporal.io/kb/all-the-ways-to-run-a-cluster#docker--docker-compose)
 
+## Machine Learning 
+- [gradio](https://www.gradio.app/)
+
 ### DockerX Helps Docker issues
 
 |SNo.| Issues |Solution|
